@@ -1,0 +1,57 @@
+FirstName,LastName,F&L,ProductQuality(Region North),Origin,Day,Sales
+Ajay ,shakya,Ajay shakya,6,Imported,Monday,125.64
+Akshay,Kumar,AkshayKumar,2,Imported,Monday,272.38
+bindu,Priya,binduPriya,12,Imported,Monday,373.38
+Bramanin,Chandra,BramaninChandra,14,Imported,Monday,118.99
+Dinesh,Rawat,DineshRawat,8,Imported,Monday,339.58
+Dinesh,Rawat,DineshRawat,15,Imported,Monday,489.5
+Diya,Singh,DiyaSingh,7,Imported,Tuesday,261.11
+Faran,Aktaar,FaranAktaar,11,Imported,Tuesday,354.12
+Gita,Dutta,GitaDutta,15,Imported,Tuesday,222.9
+Gita,Maduri,GitaMaduri,12,Imported,Tuesday,321.89
+Gita,Maduri,GitaMaduri,3,Imported,Tuesday,1344.9
+Hari,Priya,HariPriya,1,Imported,Tuesday,453.78
+hari,priya,haripriya,5,Imported,Wednesday,234.89
+Hemant,Thakur,HemantThakur,12,Imported,Wednesday,451.2
+Hrithik,  Jindal,Hrithik  Jindal,3,Imported,Wednesday,112.9
+jiya,verma,jiyaverma,4,Imported,Wednesday,345.8
+Kiran,Bedi,KiranBedi,13,Imported,Wednesday,323.67
+kiran,singh,kiransingh,11,Imported,Wednesday,345.56
+Lavanya,Kumar,LavanyaKumar,15,Imported,Thursday,679.9
+Mahesh,Verma,MaheshVerma,6,Imported,Thursday,245.89
+Manish,Kaithwas,ManishKaithwas,1,Imported,Thursday,455.89
+Maya,Verma,MayaVerma,15,Imported,Thursday,345.78
+Mohan,Kumar,MohanKumar,14,Imported,Thursday,341.9
+Nilesh,Rajput,NileshRajput,14,Imported,Thursday,23.45
+Nirmala,Priya,NirmalaPriya,1,Imported,Friday,122.2
+Nithin,Bolsini,NithinBolsini,5,Imported,Friday,126.3
+,,,,Imported Total,,8833.5
+Om,Kimar,OmKimar,9,Local,Friday,123.5
+Prasanna,Lanka,PrasannaLanka,3,Local,Friday,234.2
+Prem,Kumar,PremKumar,1,Local,Friday,231.56
+Priya,Bosel,PriyaBosel,11,Local,Friday,561.3
+Priya,Kiran,PriyaKiran,1,Local,Saturaday,282.4
+Rafath,Bhagam,RafathBhagam,11,Local,Saturaday,328.3
+Ram Me,hta,Ram Mehta,13,Local,Saturaday,400
+Ramesh,agarwal,Rameshagarwal,10,Local,Saturaday,100
+Ravi ,Varma,Ravi Varma,14,Local,Saturaday,235.3
+Shyam,Sundar,ShyamSundar,10,Local,Monday,432
+Siya,ram,Siyaram,10,Local,Monday,420
+Suma,Prasad,SumaPrasad,5,Local,Monday,489
+suma,verma,sumaverma,4,Local,Tuesday,322
+Supriya,Vadapalli,SupriyaVadapalli,1,Local,Tuesday,450
+Suresh,Gupta,SureshGupta,8,Local,Tuesday,490
+swetha,Lanla,swethaLanla,2,Local,Wednesday,467.9
+swetha,Bolsini,swethaBolsini,12,Local,Wednesday,483.9
+Tenna,singh,Tennasingh,7,Local,Wednesday,499.9
+Uma,Maduri,UmaMaduri,13,Local,Wednesday,515.9
+Uma,Verma,UmaVerma,10,Local,Thursday,531.9
+verma,singh,vermasingh,1,Local,Thursday,547.9
+Vijay,Verma,VijayVerma,2,Local,Thursday,563.9
+vijay,sinha,vijaysinha,3,Local,Thursday,579.9
+,,,,Local Total,,9290.76
+,,,,,Total,18124.26
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,Grand Total,,36248.52
